@@ -185,11 +185,11 @@ Implementation of:
 
 <p align="left">
 <a href="https://github.com/Hospice-max">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40"/>
+  🤍Github
 </a>
 
 <a href="https://grand-vision-portfolio.vercel.app/">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" height="30" width="40"/>
+  🤍Porfolio
 </a>
 </p>
 
