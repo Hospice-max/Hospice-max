@@ -55,7 +55,6 @@ I enjoy transforming ideas into reliable products with clean code, efficient sys
 ## ☁️ DevOps & Infrastructure
 - CI/CD Pipelines
 - Deployment Automation
-- Docker & Containerization
 - Cloud Hosting
 - Server Configuration
 - Performance Monitoring
