@@ -165,29 +165,13 @@ Implementation of:
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hospice-max&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hospice-max&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hospice-max&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="left">
 <a href="https://github.com/Hospice-max">
   🤍Github
 </a>
-
+<br/>
 <a href="https://grand-vision-portfolio.vercel.app/">
   🤍Porfolio
 </a>
