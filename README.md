@@ -5,7 +5,7 @@ Full Stack Engineer • DevOps Engineer • Programmer Analyst
 </h3>
 
 <p align="center">
-I build scalable applications, modern infrastructures, and high-performance digital experiences.
+I design scalable systems, secure infrastructures, modern web applications, and enterprise-grade digital solutions.
 </p>
 
 ---
@@ -26,108 +26,142 @@ I build scalable applications, modern infrastructures, and high-performance digi
 
 # 🚀 About Me
 
-I'm a passionate Full Stack & DevOps Engineer focused on building scalable, maintainable, and production-ready systems.
+I'm a passionate Full Stack & DevOps Engineer with strong expertise in backend systems, infrastructure automation, cybersecurity, and enterprise application development.
 
-I combine software engineering, infrastructure management, and analytical problem-solving to deliver complete digital solutions from architecture to deployment.
+I build complete digital ecosystems — from frontend interfaces and backend APIs to secure infrastructures, CI/CD pipelines, VoIP systems, and authentication architectures.
 
-My expertise spans:
-- Full Stack Web Development
-- Cloud & DevOps Engineering
-- API Architecture
-- System Design
-- Infrastructure Automation
+My approach combines:
+- Software Engineering
+- Infrastructure & DevOps
+- Security Engineering
+- Systems Analysis
 - Performance Optimization
-- Technical Analysis & Problem Solving
-
-I enjoy transforming ideas into reliable products with clean code, efficient systems, and modern user experiences.
+- Scalable Architecture Design
 
 ---
 
-# 🧠 What I Do
+# 🧠 Core Expertise
 
 ## ⚡ Full Stack Development
-- Modern Web Applications
-- REST APIs
-- Authentication Systems
-- Database Design
+- Enterprise Web Applications
+- RESTful APIs
+- Authentication & Authorization
 - Frontend & Backend Architecture
+- Real-Time Systems
+- Database Engineering
 
 ## ☁️ DevOps & Infrastructure
 - CI/CD Pipelines
+- Linux Server Administration
 - Deployment Automation
 - Cloud Hosting
-- Server Configuration
-- Performance Monitoring
+- Infrastructure Optimization
+
+## 🔐 Cybersecurity & Authentication
+- TOTP / MFA Systems
+- Cryptography
+- Password Hashing
+- Argon2 & Bcrypt
+- Salting & Secure Authentication
+- Access Control Systems
+
+## 📡 VoIP & Enterprise Systems
+- Asterisk VoIP Solutions
+- Telephony Infrastructure
+- GLPI Configuration & Management
+- IT Asset Management
+- Enterprise Service Platforms
 
 ## 📊 Programmer Analysis
-- Software Analysis
-- System Optimization
-- Workflow Engineering
+- System Analysis
 - Technical Documentation
-- Scalable Solution Planning
+- Workflow Engineering
+- Software Architecture Planning
+- Performance & Scalability Optimization
 
 ---
 
 # 🛠️ Tech Stack
 
 ## Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
 ---
 
 ## Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase)
+
+---
+
+## Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
 ---
 
 ## DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 
 ---
 
-## Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+## Security & Authentication
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+![Auth](https://img.shields.io/badge/TOTP-Authentication-blue?style=flat)
+![Argon2](https://img.shields.io/badge/Argon2-Secure-green?style=flat)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Hashing-orange?style=flat)
+
+---
+
+## Enterprise & Systems
+![Asterisk](https://img.shields.io/badge/Asterisk-VoIP-green?style=flat)
+![GLPI](https://img.shields.io/badge/GLPI-ITSM-blue?style=flat)
 
 ---
 
 # 🌟 Featured Work
 
 ## 🔹 Grand Vision Portfolio
-Modern portfolio platform focused on performance, responsiveness, animations, and clean architecture.
+Modern portfolio platform focused on performance, responsiveness, clean architecture, and immersive UI/UX.
 
 🔗 https://grand-vision-portfolio.vercel.app/
 
 ---
 
-## 🔹 Full Stack Systems
-I develop complete applications including:
-- Frontend interfaces
-- Backend APIs
-- Authentication
-- Databases
-- Deployment workflows
-- Infrastructure setup
+## 🔹 Enterprise Applications
+Development of scalable business applications with:
+- Laravel
+- Vue.js
+- MySQL
+- MongoDB
+- Secure Authentication Systems
 
 ---
 
-## 🔹 DevOps & Deployment
-Experience deploying and maintaining modern applications with:
-- CI/CD
-- Cloud Platforms
-- Dockerized Environments
-- GitHub Actions
-- Monitoring & Optimization
+## 🔹 VoIP & Infrastructure Solutions
+Deployment and maintenance of:
+- Asterisk telephony systems
+- Enterprise communication servers
+- Linux infrastructures
+- Monitoring & optimization systems
+
+---
+
+## 🔹 Security Engineering
+Implementation of:
+- TOTP Authentication
+- Secure password hashing
+- Argon2/Bcrypt encryption strategies
+- Access control mechanisms
+- Authentication workflows
 
 ---
 
@@ -161,8 +195,9 @@ Experience deploying and maintaining modern applications with:
 
 ---
 
-# 💭 Philosophy
+# 💭 Engineering Philosophy
 
-> “Build systems that scale.
-> Create interfaces that feel effortless.
-> Engineer solutions that last.”
+> “Secure systems.
+> Scalable architectures.
+> Efficient solutions.
+> Meaningful user experiences.”
