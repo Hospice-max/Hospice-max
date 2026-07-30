@@ -1,19 +1,19 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Hospice Max
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hospice%20Max&fontSize=45&fontAlignY=40&color=0:6C63FF,100:4F9CF9&fontColor=ffffff"/>
 
 ### 💻 Ingénieur Full Stack • ⚙️ Ingénieur DevOps • 📊 Analyste Programmeur
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Développement+Web+Moderne;Architecture+Logicielle;DevOps+%26+Automatisation;Cybersécurité+%26+Authentification;VoIP+%26+Infrastructures+Entreprise" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=4F9CF9&center=true&vCenter=true&width=750&lines=Concepteur+d'applications+modernes;Architecte+de+syst%C3%A8mes+scalables;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9;DevOps+%7C+Cloud+%7C+VoIP+%7C+IA"/>
 
-<br><br>
+<br/>
 
-> Concevoir des solutions robustes, sécurisées et évolutives pour répondre aux enjeux numériques d'aujourd'hui et de demain.
+> *Je conçois des applications performantes, des infrastructures sécurisées et des solutions numériques pensées pour durer.*
 
-<br>
+<br/>
 
 <a href="https://grand-vision-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-Visiter-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visiter-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Hospice-max">
@@ -26,216 +26,230 @@
 
 ---
 
-# ✨ À propos de moi
+## ✨ À propos de moi
 
-Passionné par l’ingénierie logicielle, les infrastructures et l’automatisation, je conçois des applications web modernes ainsi que des architectures techniques capables de supporter la croissance des entreprises.
+Développeur passionné, j'accompagne les entreprises dans la conception de solutions numériques robustes, sécurisées et évolutives.
 
-Mon expertise couvre l’ensemble du cycle de vie d’un projet :
+J'interviens sur l'ensemble du cycle de développement :
 
-* 🎨 Développement Frontend moderne
-* ⚙️ Conception d'APIs et Backends performants
-* ☁️ Déploiement et automatisation DevOps
-* 🔐 Sécurisation des systèmes et applications
-* 📡 Téléphonie IP et solutions VoIP
-* 📈 Optimisation des performances
-* 🏗️ Architecture logicielle et scalabilité
+- 🎨 Interfaces modernes
+- ⚙️ APIs et backends performants
+- ☁️ Déploiement & DevOps
+- 🔐 Cybersécurité
+- 📡 Téléphonie IP
+- 📈 Optimisation des performances
+- 🏗️ Architecture logicielle
+
+Mon objectif est de produire un code propre, maintenable et capable d'évoluer avec les besoins métiers.
 
 ---
 
-# 🚀 Domaines d'expertise
+## 🚀 Domaines d'expertise
 
 ### 💻 Développement Full Stack
-
-* Applications Web et SaaS
-* APIs REST sécurisées
-* Authentification & Autorisation
-* Applications Temps Réel
-* Architecture Frontend / Backend
-* Conception et optimisation de bases de données
+- Applications Web modernes
+- API REST
+- Authentification & Autorisation
+- Architecture Frontend / Backend
+- Applications temps réel
+- Conception de bases de données
 
 ### ☁️ DevOps & Infrastructure
-
-* CI/CD
-* Linux Administration
-* Docker & Conteneurisation
-* Automatisation des déploiements
-* Monitoring et optimisation
+- Pipelines CI/CD
+- Administration Linux
+- Automatisation des déploiements
+- Hébergement Cloud
+- Optimisation des performances
 
 ### 🔐 Cybersécurité
+- Authentification MFA / TOTP
+- Cryptographie
+- JWT
+- Argon2
+- Bcrypt
+- Contrôle d'accès
 
-* JWT
-* MFA / TOTP
-* Argon2
-* Bcrypt
-* Contrôle d'accès
-* Sécurisation des APIs
-
-### 📡 VoIP & Systèmes d'Entreprise
-
-* Asterisk
-* Téléphonie IP
-* GLPI
-* Gestion d'infrastructures Linux
-* Solutions de communication d'entreprise
+### 📡 VoIP & Systèmes
+- Asterisk
+- Téléphonie IP
+- GLPI
+- Infrastructures Linux
+- Plateformes d'entreprise
 
 ### 📊 Analyse & Architecture
-
-* Analyse fonctionnelle
-* Architecture logicielle
-* Documentation technique
-* Optimisation des workflows
-* Scalabilité des systèmes
-
----
-
-# 🛠️ Technologies
-
-## 🎨 Frontend
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28"/> Vue.js &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/> Next.js &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> TypeScript &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28"/> Tailwind CSS
-</p>
-
-## ⚙️ Backend
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/> PHP &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28"/> Laravel &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/> Node.js &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28"/> Express.js
-</p>
-
-## 🗄️ Bases de données
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/> MongoDB
-</p>
-
-## ☁️ DevOps & Cloud
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/> Linux &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> Docker &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Git &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28"/> GitHub Actions &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="28"/> Nginx &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28"/> Vercel
-</p>
-
-## 🔐 Sécurité
-
-* JWT
-* MFA / TOTP
-* Argon2
-* Bcrypt
-* Gestion des accès
-
-## 🏢 Solutions Entreprise
-
-* 📡 Asterisk
-* 🖥️ GLPI
-* 🐧 Linux Server
-* ☎️ VoIP
+- Analyse fonctionnelle
+- Documentation technique
+- Architecture logicielle
+- Optimisation des performances
+- Conception de workflows
 
 ---
 
-# 🌟 Réalisations
+## 🛠️ Stack technique
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" alt="Vue.js"/> <b>Vue.js</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React"/> <b>React</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" alt="Next.js"/> <b>Next.js</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript"/> <b>TypeScript</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" alt="Tailwind CSS"/> <b>Tailwind CSS</b>
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" alt="PHP"/> <b>PHP</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" alt="Laravel"/> <b>Laravel</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" alt="Node.js"/> <b>Node.js</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" alt="Express.js"/> <b>Express.js</b>
+</p>
+
+---
+
+### 🗄️ Bases de données
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" alt="MySQL"/> <b>MySQL</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" alt="MongoDB"/> <b>MongoDB</b>
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Linux"/> <b>Linux</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" alt="Docker"/> <b>Docker</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28" alt="GitHub Actions"/> <b>GitHub Actions</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git"/> <b>Git</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" alt="Vercel"/> <b>Vercel</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="28" alt="Nginx"/> <b>Nginx</b>
+</p>
+
+---
+
+### 🔐 Sécurité & Authentification
+
+<p align="left">
+  🔑 <b>JWT</b>&nbsp;&nbsp;
+  🛡️ <b>Argon2</b>&nbsp;&nbsp;
+  🔒 <b>Bcrypt</b>&nbsp;&nbsp;
+  📲 <b>TOTP / MFA</b>
+</p>
+
+---
+
+### 🏢 Solutions d'entreprise
+
+<p align="left">
+  📡 <b>Asterisk</b>&nbsp;&nbsp;
+  🖥️ <b>GLPI</b>
+</p>
+
+---
+
+## 🌟 Projets mis en avant
 
 ### 🌐 Grand Vision Portfolio
 
-Plateforme moderne axée sur :
+Plateforme moderne mettant l'accent sur :
 
-* Performance
-* Responsive Design
-* Architecture propre
-* UX immersive
-* Optimisation SEO
+- ⚡ Performance
+- 📱 Responsive Design
+- 🧩 Architecture propre
+- 🎨 Expérience utilisateur immersive
 
-🔗 https://grand-vision-portfolio.vercel.app/
-
----
-
-### 🏢 Applications Métiers
-
-Conception de solutions professionnelles basées sur :
-
-* Laravel
-* Vue.js
-* MySQL
-* MongoDB
-* Authentification sécurisée
+🔗 **https://grand-vision-portfolio.vercel.app/**
 
 ---
 
-### ☎️ Solutions VoIP
+### 🏢 Applications métiers
 
-* Déploiement Asterisk
-* Automatisation des appels
-* Gestion des files d'attente
-* Monitoring des infrastructures téléphoniques
+Développement de solutions professionnelles avec :
 
----
-
-### 🔐 Sécurité Applicative
-
-* MFA / TOTP
-* Hashage sécurisé
-* Contrôle d'accès
-* Protection des APIs
+- Laravel
+- Vue.js
+- MySQL
+- MongoDB
+- Authentification sécurisée
 
 ---
 
-# 📈 Statistiques GitHub
+### ☎️ Infrastructures VoIP
+
+Conception et maintenance de :
+
+- Serveurs Asterisk
+- Communications IP
+- Plateformes Linux
+- Supervision des performances
+
+---
+
+### 🔐 Cybersécurité
+
+Implémentation de :
+
+- Authentification multifacteur
+- Hashage sécurisé
+- Contrôle d'accès
+- Flux d'authentification
+
+---
+
+## 📈 Statistiques GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hospice-max&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hospice-max&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Hospice-max&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hospice-max&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hospice-max&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hospice-max&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌍 Me retrouver
+## 🐍 Activité des contributions
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Hospice-max">
-🐙 GitHub
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-  •  
+</div>
 
-<a href="https://grand-vision-portfolio.vercel.app/">
-🌐 Portfolio
-</a>
+---
 
-</p>
+## 🌍 Me contacter
+
+<div align="center">
+
+### 🌐 Portfolio
+**https://grand-vision-portfolio.vercel.app/**
+
+### 🐙 GitHub
+**https://github.com/Hospice-max**
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💭 Philosophie
+## 💡 Ma philosophie d'ingénierie
 
-> Construire des systèmes sécurisés.
->
-> Concevoir des architectures évolutives.
->
-> Automatiser intelligemment.
->
-> Offrir une expérience utilisateur remarquable.
+> **Construire des solutions fiables.**  
+> **Concevoir des architectures évolutives.**  
+> **Sécuriser chaque composant.**  
+> **Créer des expériences utiles et durables.**
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F9CF9,100:6C63FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:4F9CF9"/>
 
 </div>
