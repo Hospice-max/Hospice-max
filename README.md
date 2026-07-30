@@ -1,187 +1,226 @@
-<h1 align="center">Hi 👋, I'm Hospice Max</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Engineer • DevOps Engineer • Programmer Analyst
-</h3>
+# 👋 Bonjour, je suis **Hospice Max**
 
-<p align="center">
-I design scalable systems, secure infrastructures, modern web applications, and enterprise-grade digital solutions.
-</p>
+### 💻 Ingénieur Full Stack • ⚙️ Ingénieur DevOps • 📊 Analyste Programmeur
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Concepteur+d'applications+modernes;Architecte+de+syst%C3%A8mes+scalables;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9;DevOps+%7C+Cloud+%7C+VoIP+%7C+IA" />
 
-<p align="center">
-  <a href="https://grand-vision-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/>
-  </a>
+<br>
 
-  <a href="https://github.com/Hospice-max">
-    <img src="https://img.shields.io/github/followers/Hospice-max?style=for-the-badge"/>
-  </a>
+> *Je conçois des applications performantes, des infrastructures sécurisées et des solutions numériques pensées pour durer.*
 
-  <img src="https://komarev.com/ghpvc/?username=Hospice-max&style=for-the-badge"/>
-</p>
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-000000?style=for-the-badge)](https://grand-vision-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/github/followers/Hospice-max?style=for-the-badge&logo=github)](https://github.com/Hospice-max)
+![](https://komarev.com/ghpvc/?username=Hospice-max&style=for-the-badge)
+
+</div>
 
 ---
 
-# 🚀 About Me
+# ✨ À propos
 
-I'm a passionate Full Stack & DevOps Engineer with strong expertise in backend systems, infrastructure automation, cybersecurity, and enterprise application development.
+Développeur passionné, j'accompagne les entreprises dans la conception de solutions numériques robustes, sécurisées et évolutives.
 
-I build complete digital ecosystems — from frontend interfaces and backend APIs to secure infrastructures, CI/CD pipelines, VoIP systems, and authentication architectures.
+J'interviens sur l'ensemble du cycle de développement :
 
-My approach combines:
-- Software Engineering
-- Infrastructure & DevOps
-- Security Engineering
-- Systems Analysis
-- Performance Optimization
-- Scalable Architecture Design
+- 🎨 Interfaces modernes
+- ⚙️ APIs et Backends performants
+- ☁️ Déploiement & DevOps
+- 🔐 Cybersécurité
+- 📡 Téléphonie IP
+- 📈 Optimisation des performances
+- 🏗️ Architecture logicielle
 
----
-
-# 🧠 Core Expertise
-
-## ⚡ Full Stack Development
-- Enterprise Web Applications
-- RESTful APIs
-- Authentication & Authorization
-- Frontend & Backend Architecture
-- Real-Time Systems
-- Database Engineering
-
-## ☁️ DevOps & Infrastructure
-- CI/CD Pipelines
-- Linux Server Administration
-- Deployment Automation
-- Cloud Hosting
-- Infrastructure Optimization
-
-## 🔐 Cybersecurity & Authentication
-- TOTP / MFA Systems
-- Cryptography
-- Password Hashing
-- Argon2 & Bcrypt
-- Salting & Secure Authentication
-- Access Control Systems
-
-## 📡 VoIP & Enterprise Systems
-- Asterisk VoIP Solutions
-- Telephony Infrastructure
-- GLPI Configuration & Management
-- IT Asset Management
-- Enterprise Service Platforms
-
-## 📊 Programmer Analysis
-- System Analysis
-- Technical Documentation
-- Workflow Engineering
-- Software Architecture Planning
-- Performance & Scalability Optimization
+Mon objectif est de produire un code propre, maintenable et capable d'évoluer avec les besoins métiers.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Domaines d'expertise
+
+### 💻 Développement Full Stack
+
+- Applications Web modernes
+- API REST
+- Authentification & Autorisation
+- Architecture Frontend / Backend
+- Applications temps réel
+- Conception de bases de données
+
+### ☁️ DevOps & Infrastructure
+
+- Pipelines CI/CD
+- Administration Linux
+- Automatisation des déploiements
+- Hébergement Cloud
+- Optimisation des performances
+
+### 🔐 Cybersécurité
+
+- Authentification MFA / TOTP
+- Cryptographie
+- JWT
+- Argon2
+- Bcrypt
+- Contrôle d'accès
+
+### 📡 VoIP & Systèmes
+
+- Asterisk
+- Téléphonie IP
+- GLPI
+- Infrastructures Linux
+- Plateformes d'entreprise
+
+### 📊 Analyse & Architecture
+
+- Analyse fonctionnelle
+- Documentation technique
+- Architecture logicielle
+- Optimisation des performances
+- Conception de workflows
+
+---
+
+# 🛠 Technologies
 
 ## Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,typescript,tailwind" />
+</p>
 
 ## Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
+
+## Bases de données
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,githubactions,git,docker,vercel" />
+</p>
+
+## Sécurité
+
+<p>
+
+- 🔐 JWT
+- 🔑 MFA / TOTP
+- 🛡️ Argon2
+- 🔒 Bcrypt
+
+</p>
+
+## Solutions d'entreprise
+
+- 📡 Asterisk
+- 🖥️ GLPI
 
 ---
 
-## Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+# 🌟 Projets
 
----
+## 🌐 Grand Vision Portfolio
 
-## DevOps & Cloud
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+Une plateforme moderne mettant l'accent sur :
 
----
-
-## Security & Authentication
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
-![Auth](https://img.shields.io/badge/TOTP-Authentication-blue?style=flat)
-![Argon2](https://img.shields.io/badge/Argon2-Secure-green?style=flat)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-Hashing-orange?style=flat)
-
----
-
-## Enterprise & Systems
-![Asterisk](https://img.shields.io/badge/Asterisk-VoIP-green?style=flat)
-![GLPI](https://img.shields.io/badge/GLPI-ITSM-blue?style=flat)
-
----
-
-# 🌟 Featured Work
-
-## 🔹 Grand Vision Portfolio
-Modern portfolio platform focused on performance, responsiveness, clean architecture, and immersive UI/UX.
+- Performance
+- Responsive Design
+- Architecture propre
+- Expérience utilisateur immersive
 
 🔗 https://grand-vision-portfolio.vercel.app/
 
 ---
 
-## 🔹 Enterprise Applications
-Development of scalable business applications with:
+## 🏢 Applications métiers
+
+Développement de solutions professionnelles avec :
+
 - Laravel
 - Vue.js
 - MySQL
 - MongoDB
-- Secure Authentication Systems
+- Authentification sécurisée
 
 ---
 
-## 🔹 VoIP & Infrastructure Solutions
-Deployment and maintenance of:
-- Asterisk telephony systems
-- Enterprise communication servers
-- Linux infrastructures
-- Monitoring & optimization systems
+## ☎️ Infrastructures VoIP
+
+Conception et maintenance de :
+
+- Serveurs Asterisk
+- Communications IP
+- Plateformes Linux
+- Supervision des performances
 
 ---
 
-## 🔹 Security Engineering
-Implementation of:
-- TOTP Authentication
-- Secure password hashing
-- Argon2/Bcrypt encryption strategies
-- Access control mechanisms
-- Authentication workflows
+## 🔐 Cybersécurité
+
+Implémentation de :
+
+- Authentification multifacteur
+- Hashage sécurisé
+- Contrôle d'accès
+- Flux d'authentification
 
 ---
 
-# 🌍 Connect With Me
+# 📈 GitHub
 
-<p align="left">
-<a href="https://github.com/Hospice-max">
-  🤍Github
-</a>
-<br/>
-<a href="https://grand-vision-portfolio.vercel.app/">
-  🤍Porfolio
-</a>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hospice-max&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hospice-max&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hospice-max&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 💭 Engineering Philosophy
+# 🌍 Me contacter
 
-> “Secure systems.
-> Scalable architectures.
-> Efficient solutions.
-> Meaningful user experiences.”
+<div align="center">
+
+🌐 **Portfolio**
+
+https://grand-vision-portfolio.vercel.app/
+
+🐙 **GitHub**
+
+https://github.com/Hospice-max
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Ma philosophie
+
+> **Construire des solutions fiables.**
+>
+> **Concevoir des architectures évolutives.**
+>
+> **Sécuriser chaque composant.**
+>
+> **Créer des expériences utiles et durables.**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,100:4F9CF9&section=footer"/>
+
+</div>
