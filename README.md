@@ -122,8 +122,7 @@ Mon objectif est de produire un code propre, maintenable et capable d'évoluer a
 ### ☁️ DevOps & Cloud
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Linux"/> <b>Linux</b>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" alt="Docker"/> <b>Docker</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Linux"/> <b>Linux</b>&nbsp;&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28" alt="GitHub Actions"/> <b>GitHub Actions</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git"/> <b>Git</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" alt="Vercel"/> <b>Vercel</b>&nbsp;&nbsp;
