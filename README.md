@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hospice%20AHOUANDJINOU&fontSize=45&fontAlignY=40&color=0:6C63FF,100:4F9CF9&fontColor=ffffff"/>
 
-### 💻 Ingénieur Full Stack • ⚙️ Ingénieur DevOps • 📊 Analyste Programmeur
+### 💻 Développeur Web/Mobile Full Stack • 📊 Analyste Programmeur
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=4F9CF9&center=true&vCenter=true&width=750&lines=Concepteur+d'applications+modernes;Architecte+de+syst%C3%A8mes+scalables;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9;DevOps+%7C+Cloud+%7C+VoIP+%7C+IA"/>
 
