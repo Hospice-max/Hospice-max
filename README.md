@@ -2,18 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hospice%20AHOUANDJINOU&fontSize=45&fontAlignY=40&color=0:6C63FF,100:4F9CF9&fontColor=ffffff"/>
 
-### 💻 Développeur Web/Mobile Full Stack • 📊 Analyste Programmeur
+### 💻 Full Stack Web & Mobile Developer • 📊 Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=4F9CF9&center=true&vCenter=true&width=750&lines=Concepteur+d'applications+modernes;Architecte+de+syst%C3%A8mes+scalables;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9;DevOps+%7C+Cloud+%7C+VoIP+%7C+IA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=4F9CF9&center=true&vCenter=true&width=750&lines=Building+modern+digital+solutions;Designing+scalable+software+architectures;Engineering+secure+and+reliable+systems;Full+Stack+%7C+DevOps+%7C+VoIP+%7C+Cybersecurity"/>
 
 <br/>
 
-> *Je conçois des applications performantes, des infrastructures sécurisées et des solutions numériques pensées pour durer.*
+> *I build reliable software, secure infrastructure, and scalable digital solutions designed to solve real-world problems.*
 
 <br/>
 
 <a href="https://grand-vision-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visiter-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Hospice-max">
@@ -26,68 +26,33 @@
 
 ---
 
-## ✨ À propos de moi
+## 👨‍💻 About Me
 
-Développeur passionné, j'accompagne les entreprises dans la conception de solutions numériques robustes, sécurisées et évolutives.
+I'm a Full Stack Developer and Software Engineer focused on building modern, reliable, and secure applications.
 
-J'interviens sur l'ensemble du cycle de développement :
+I work across the entire development lifecycle — from designing user interfaces and backend architectures to database engineering, deployment, infrastructure, and system monitoring.
 
-- 🎨 Interfaces modernes
-- ⚙️ APIs et backends performants
-- ☁️ Déploiement & DevOps
-- 🔐 Cybersécurité
-- 📡 Téléphonie IP
-- 📈 Optimisation des performances
-- 🏗️ Architecture logicielle
+My work sits at the intersection of **software development, DevOps, cybersecurity, and telecommunications**, with a strong focus on maintainability, performance, and scalability.
 
-Mon objectif est de produire un code propre, maintenable et capable d'évoluer avec les besoins métiers.
+I enjoy turning complex business requirements into clean technical solutions that can evolve over time.
 
 ---
 
-## 🚀 Domaines d'expertise
+## 🚀 What I Do
 
-### 💻 Développement Full Stack
-- Applications Web modernes
-- API REST
-- Authentification & Autorisation
-- Architecture Frontend / Backend
-- Applications temps réel
-- Conception de bases de données
+I design and develop full-stack applications, REST APIs, real-time systems, and business platforms using modern frontend and backend technologies.
 
-### ☁️ DevOps & Infrastructure
-- Pipelines CI/CD
-- Administration Linux
-- Automatisation des déploiements
-- Hébergement Cloud
-- Optimisation des performances
+Beyond application development, I work with Linux infrastructure, CI/CD pipelines, cloud deployments, system automation, and production monitoring.
 
-### 🔐 Cybersécurité
-- Authentification MFA / TOTP
-- Cryptographie
-- JWT
-- Argon2
-- Bcrypt
-- Contrôle d'accès
+I also have experience in **VoIP and telecommunications**, including Asterisk-based systems, SIP infrastructure, call platforms, and enterprise communication environments.
 
-### 📡 VoIP & Systèmes
-- Asterisk
-- Téléphonie IP
-- GLPI
-- Infrastructures Linux
-- Plateformes d'entreprise
-
-### 📊 Analyse & Architecture
-- Analyse fonctionnelle
-- Documentation technique
-- Architecture logicielle
-- Optimisation des performances
-- Conception de workflows
+Security is part of the architecture rather than an afterthought. My implementations include modern authentication and authorization mechanisms such as **JWT, Argon2, Bcrypt, TOTP, and MFA**, combined with appropriate access-control strategies.
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Technology Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" alt="Vue.js"/> <b>Vue.js</b>&nbsp;&nbsp;
@@ -97,9 +62,7 @@ Mon objectif est de produire un code propre, maintenable et capable d'évoluer a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" alt="Tailwind CSS"/> <b>Tailwind CSS</b>
 </p>
 
----
-
-### ⚙️ Backend
+### Backend
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" alt="PHP"/> <b>PHP</b>&nbsp;&nbsp;
@@ -108,30 +71,24 @@ Mon objectif est de produire un code propre, maintenable et capable d'évoluer a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" alt="Express.js"/> <b>Express.js</b>
 </p>
 
----
-
-### 🗄️ Bases de données
+### Databases
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" alt="MySQL"/> <b>MySQL</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" alt="MongoDB"/> <b>MongoDB</b>
 </p>
 
----
-
-### ☁️ DevOps & Cloud
+### DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Linux"/> <b>Linux</b>&nbsp;&nbsp;  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Linux"/> <b>Linux</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28" alt="GitHub Actions"/> <b>GitHub Actions</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git"/> <b>Git</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" alt="Vercel"/> <b>Vercel</b>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="28" alt="Nginx"/> <b>Nginx</b>
 </p>
 
----
-
-### 🔐 Sécurité & Authentification
+### Security & Authentication
 
 <p align="left">
   🔑 <b>JWT</b>&nbsp;&nbsp;
@@ -140,67 +97,39 @@ Mon objectif est de produire un code propre, maintenable et capable d'évoluer a
   📲 <b>TOTP / MFA</b>
 </p>
 
----
-
-### 🏢 Solutions d'entreprise
+### Enterprise & Telecommunications
 
 <p align="left">
   📡 <b>Asterisk</b>&nbsp;&nbsp;
-  🖥️ <b>GLPI</b>
+  🖥️ <b>GLPI</b>&nbsp;&nbsp;
+  ☎️ <b>SIP / VoIP</b>
 </p>
 
 ---
 
-## 🌟 Projets mis en avant
+## 🌟 Selected Projects
 
 ### 🌐 Grand Vision Portfolio
 
-Plateforme moderne mettant l'accent sur :
+A modern portfolio platform focused on performance, responsive design, clean architecture, and an immersive user experience.
 
-- ⚡ Performance
-- 📱 Responsive Design
-- 🧩 Architecture propre
-- 🎨 Expérience utilisateur immersive
+**Live:** https://grand-vision-portfolio.vercel.app/
 
-🔗 **https://grand-vision-portfolio.vercel.app/**
+### 🏢 Business Applications
 
----
+Design and development of professional applications combining modern frontend frameworks, robust backend APIs, relational and NoSQL databases, and secure authentication.
 
-### 🏢 Applications métiers
+### ☎️ VoIP & Communication Systems
 
-Développement de solutions professionnelles avec :
+Development and maintenance of Asterisk-based communication platforms, SIP infrastructure, Linux servers, call routing systems, and monitoring solutions.
 
-- Laravel
-- Vue.js
-- MySQL
-- MongoDB
-- Authentification sécurisée
+### 🔐 Security Engineering
+
+Implementation of secure authentication flows, password hashing, multi-factor authentication, token-based authorization, and access-control mechanisms.
 
 ---
 
-### ☎️ Infrastructures VoIP
-
-Conception et maintenance de :
-
-- Serveurs Asterisk
-- Communications IP
-- Plateformes Linux
-- Supervision des performances
-
----
-
-### 🔐 Cybersécurité
-
-Implémentation de :
-
-- Authentification multifacteur
-- Hashage sécurisé
-- Contrôle d'accès
-- Flux d'authentification
-
----
-
-## 🐍 Activité des contributions
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -210,14 +139,16 @@ Implémentation de :
 
 ---
 
-## 🌍 Me contacter
+## 🌍 Connect With Me
 
 <div align="center">
 
 ### 🌐 Portfolio
+
 **https://grand-vision-portfolio.vercel.app/**
 
 ### 🐙 GitHub
+
 **https://github.com/Hospice-max**
 
 </div>
@@ -226,12 +157,12 @@ Implémentation de :
 
 <div align="center">
 
-## 💡 Ma philosophie d'ingénierie
+## 💡 Engineering Philosophy
 
-> **Construire des solutions fiables.**  
-> **Concevoir des architectures évolutives.**  
-> **Sécuriser chaque composant.**  
-> **Créer des expériences utiles et durables.**
+> **Build reliable solutions.**
+> **Design for scalability.**
+> **Secure by design.**
+> **Keep technology useful and maintainable.**
 
 <br/>
 
